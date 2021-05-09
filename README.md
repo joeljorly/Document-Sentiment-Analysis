@@ -5,4 +5,5 @@ Document Sentiment Analysis can be defined as the process of extracting keywords
 
 The Naive Bayes theorem is a classification method which involves the Bayes theorem. A Naive Bayes method is a comparatively simpler method for creating ML model.  However, despite its relative simplicity, it has proven to be highly efficient and works well with large datasets.
 
+The above technique has been incorporated into this project
 
